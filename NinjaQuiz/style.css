@@ -1,0 +1,13 @@
+.score {
+    display: none;
+}
+.top {
+    text-align: center;
+    margin: 40px;
+    color:darkmagenta;
+    font-size: 40px;
+}
+.q {
+    margin: 40px 20px;
+    color: darkslategrey;
+}
