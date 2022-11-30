@@ -10,3 +10,7 @@ for (let i = 0; i < arr.length; i++) {
   }
 }
 console.log("Sorted array=>", arr);         // or simply use arr.sort();
+
+let arr = [4, 32, 2, 5, 8];
+
+console.log("Sorted array=>", arr.sort((a,b)=> a-b);    
